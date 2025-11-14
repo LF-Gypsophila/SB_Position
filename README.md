@@ -15,3 +15,16 @@
 ・スキル差があり忙しい時間には強い人を作成側に配置
 
 ・忙しくない時間帯にはトレーニングモード
+
+# 追記 (Nov13)
+# 実際にWebアプリ開発の経験があるuniuni君と方針を決めました
+
+・ frontend : type script (react nextJS)
+
+・ buckend : types script (nodeJS express) & prisms 
+
+・ 出勤時間はfrondendでその都度与える
+
+・ その人の能力はtableで作成 ( User Table : id, name, ability )
+
+・　GoogleCloudのデータベースと認証機能を使う ??
