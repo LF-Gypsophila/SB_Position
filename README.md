@@ -16,8 +16,9 @@
 
 ・忙しくない時間帯にはトレーニングモード
 
-# 追記 (Nov13)
-# 実際にWebアプリ開発の経験があるuniuni君と方針を決めました
+
+----- 追記 (Nov13) -----
+ 実際にWebアプリ開発の経験があるuniuni君と方針を決めました
 
 ・ frontend : type script (react nextJS)
 
